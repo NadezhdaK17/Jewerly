@@ -14,7 +14,5 @@ namespace Jewerly.Data
         public DbSet<Category> Categories { get; set; }
         public DbSet<Shopping> Shoppings { get; set; }
         public DbSet<Type> Types { get; set; }
-
-
     }
 }
